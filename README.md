@@ -56,7 +56,7 @@ Please click on link to see the ``Portfolio``. [Shiva Chandra Portfolio</u>](htt
 > 3. Project details.
 > 4. Tech Stacks used in the project. 
 
-![Project Image 1](readmeImages/Projects1.png)
+![Project Image 1](readmeImages/projects1.png)
 ![Project Image 2](readmeImages/projects2.png)
 
 ---
