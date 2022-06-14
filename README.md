@@ -9,7 +9,7 @@
 
 ## How to view the Portfolio
 
-Please click on link to see the ``Portfolio``. [Shiva Chandra Portfolio</u>](https://github.com/shivachandrakante/Portfolio)
+Please click on link to see the ``Portfolio``. [Shiva Chandra Portfolio</u>](https://shivachandra.netlify.app/)
 
 --- 
 ## Technologies Used
